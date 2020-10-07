@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+    font-size: 32px;
+    margin: 10px 0;
+}
+
+#myMap {
+    margin: 10px auto;
+}
+
+#form {
+    margin:10px 0;
+    text-align: center;
+}
+
+#table {
+    width: 95%;
+}
+
+th,td {
+    border:solid 1px #aaaaaa;
+    vertical-align: middle;
+}
+
+th {
+    height: 30px;
+}
+
+.name {
+    width: 10%;
+}
+.address {
+    width: 15%;
+}
+.opentime {
+    width: 10%;
+}
+.tel {
+    width: 10%;
+}
+.map {
+    width: 20%;
+}
+.image {
+    width: auto;
+}
+.shop_map {
+    text-align: center;
+}
+.shop_img {
+    text-align: center;
+}
+
